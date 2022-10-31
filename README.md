@@ -5,7 +5,7 @@
 
 ___________________![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/76893116/198943500-fef33c9e-65cd-4400-89bd-d333c04b8475.gif)
 
-### <h2> Hey👋, This is Priyansh Verma </h2>
+### <h1 text-align: center> Hey👋, This is Priyansh Verma </h1>
 
 <!--
 **priyanshv03/priyanshv03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
