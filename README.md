@@ -1,5 +1,7 @@
-![profile1](https://user-images.githubusercontent.com/76893116/198944903-f954fd14-9f3d-49f3-8baa-3cbdc1bc9b85.jpg)
 
+<div hieght = "20px" width="20px">  
+![profile1](https://user-images.githubusercontent.com/76893116/198944903-f954fd14-9f3d-49f3-8baa-3cbdc1bc9b85.jpg)
+</div>
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/76893116/198943500-fef33c9e-65cd-4400-89bd-d333c04b8475.gif)
 
 ### <h2> Hey👋, This is Priyansh Verma </h2>
